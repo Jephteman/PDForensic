@@ -13,6 +13,7 @@ This package require :
  - python3 Standard Library
 
 ## Installation
+It only installs the old version until the project is updated
 ```bash
 pip install PDForensic
 ```
